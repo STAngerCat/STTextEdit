@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'STTextEdit_Example' do
+  pod 'STTextEdit', :path => '../'
+
+  target 'STTextEdit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

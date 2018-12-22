@@ -1,0 +1,16 @@
+PODS:
+  - STTextEdit (0.1.0)
+
+DEPENDENCIES:
+  - STTextEdit (from `../`)
+
+EXTERNAL SOURCES:
+  STTextEdit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  STTextEdit: a0a3a8654e86f4fee9a958abd745f4978d9c016c
+
+PODFILE CHECKSUM: 98f0da0c69c3038db817e0bc7faa6543b105a8e9
+
+COCOAPODS: 1.5.3
